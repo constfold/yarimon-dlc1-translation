@@ -1,0 +1,8 @@
+.vscode
+diff/*
+dlc/*
+dlc_cn/*
+nobom/data/*
+nobom/data_cn/*
+!placeholder
+jd-amd64-windows.exe
